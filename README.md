@@ -17,7 +17,7 @@ There are examples of anti-patterns in most of the components. Browse through th
 - Waiting to conditionally return null.
   - See [returnNullEarly](./src/returnNullEarly/index.js)
 - Destructing props in a functional component's body
-  - See [destructurePropsInDefinition](./src/destructureArgsInProps/index.js)
+  - See [destructurePropsInDefinition](./src/destructurePropsInDefinition/index.js)
 
 ## Development
 
